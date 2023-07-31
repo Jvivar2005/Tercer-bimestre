@@ -7,7 +7,7 @@
  * taller de electronica digital reparacion en computadoras 
  * javier ricardo vivar sanchez
  * 2019585
- * Sensor de gas y matriz led
+ * Acelerometro
  */
 
 // Librerias a usar
